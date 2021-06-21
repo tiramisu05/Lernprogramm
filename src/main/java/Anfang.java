@@ -11,5 +11,7 @@
 public class Anfang {
     public static void main(String[] args) {
         System.out.print("Fuck U");
+       int a = SystemInReader.readInt();
+        System.out.print("A ist: " + a);
     }
 }
